@@ -1,0 +1,40 @@
+{
+  "epoch": "2026-04-23",
+  "overrides": {
+    "1": 1,
+    "2": 3,
+    "3": 4
+  },
+  "palabras": [
+    {
+      "palabra": "OBRAS",
+      "descripcion": "Las obras de infraestructura son el corazón de Ferrovial.",
+      "datoCurioso": "Ferrovial ha construido infraestructura en más de 15 países.",
+      "imagen": ""
+    },
+    {
+      "palabra": "ACERO",
+      "descripcion": "El acero es el material vertebrador de la ingeniería civil moderna.",
+      "datoCurioso": "La Torre Eiffel usó más de 7.300 toneladas de hierro forjado en 1889.",
+      "imagen": ""
+    },
+    {
+      "palabra": "VERDE",
+      "descripcion": "La sostenibilidad es un pilar estratégico de Ferrovial.",
+      "datoCurioso": "Ferrovial tiene como objetivo la neutralidad de carbono en 2050.",
+      "imagen": ""
+    },
+    {
+      "palabra": "PUENTE",
+      "descripcion": "Los puentes conectan comunidades y son símbolo del progreso.",
+      "datoCurioso": "El puente Millau en Francia, donde Ferrovial participó, es el más alto del mundo con 343 m.",
+      "imagen": ""
+    },
+    {
+      "palabra": "TORRE",
+      "descripcion": "Las torres y rascacielos definen el skyline de las ciudades modernas.",
+      "datoCurioso": "Ferrovial construyó el rascacielos más alto de España, la Torre Cepsa en Madrid.",
+      "imagen": ""
+    }
+  ]
+}
